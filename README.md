@@ -22,7 +22,10 @@ We also have 5 columns:
 * `retention_1` : Did the player come back and play 1 day after installing?
 * `retention_7` : Did the player come back and play 7 days after installing?
 
-![df](img/df.png)
+When a player installed the game, he or she was randomly assigned to either `gate_30` or `gate_40`. As a sanity check, let's see if there are roughly the same number of players in each AB group.
+
+<img src="img/df.png" width=300 align=center>
+
 
 
 
