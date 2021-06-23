@@ -9,12 +9,10 @@ Cookie Cats is a hugely popular mobile puzzle game developed by Tactile Entertai
     width=50% height=50%>
 </a>
 
-[![video](img/cookie_cats_video.jpeg)](https://www.youtube.com/watch?v=GaP5f0jVTWE&ab_channel=TactileGames)
-
-
 As players progress through the levels of the game, they will occasionally encounter gates that force them to wait a non-trivial amount of time or make an in-app purchase to progress. In addition to driving in-app purchases, these gates serve the important purpose of giving players an enforced break from playing the game, hopefully resulting in that the player's enjoyment of the game being increased and prolonged.
 
-![gates](img/cc_gates.png)
+<img src="img/cc_gates.png" width=60% height=60% align=center>
+
 
 But where should the gates be placed? Initially the first gate was placed at level 30, but in this notebook we're going to analyze an AB-test where we moved the first gate in Cookie Cats from level 30 to level 40. In particular, we will look at the impact on player retention.
 
@@ -31,8 +29,6 @@ We also have 5 columns:
 When a player installed the game, he or she was randomly assigned to either `gate_30` or `gate_40`. As a sanity check, let's see if there are roughly the same number of players in each AB group.
 
 <img src="img/df.png" width=60% height=60% align=center>
-
-
 
 
 
