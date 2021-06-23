@@ -24,7 +24,7 @@ We also have 5 columns:
 
 When a player installed the game, he or she was randomly assigned to either `gate_30` or `gate_40`. As a sanity check, let's see if there are roughly the same number of players in each AB group.
 
-<img src="img/df.png" width=300 align=center>
+<img src="img/df.png" width=30% height=30% align=center>
 
 
 
