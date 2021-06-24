@@ -35,7 +35,7 @@ When a player installed the game, he or she was randomly assigned to either `gat
 ## Pipeline
 * Understanding the Data
 * Normality Test
-* Remove Outliers
+* Removing Outliers
 * Testing `retention_1`
 * Testing `retention_7`
 * Testing `sum_gamerounds`
